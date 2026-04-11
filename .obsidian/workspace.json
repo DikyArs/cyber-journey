@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "00 - Jurnal Harian/Hari-07(rest).md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Hari-07(rest).md"
             }
           }
         ]
@@ -180,20 +180,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "4472479cb88f415a",
+  "active": "81e698a80068deee",
   "lastOpenFiles": [
     "00 - Jurnal Harian/Review-Minggu-1.md.md",
+    "00 - Jurnal Harian/Hari-07(rest).md.md",
+    "00 - Jurnal Harian/Hari-06.md.md",
+    "README.md",
     "01 - Networking/DNS-DHCP.md.md",
     "00 - Jurnal Harian/Hari-03.md.md",
     "00 - Jurnal Harian/Hari-02.md.md",
     "00 - Jurnal Harian/Hari-05.md.md",
-    "00 - Jurnal Harian/Hari-06.md.md",
     "01 - Networking/TCPIP-Model.md.md",
     "01 - Networking/OSI-Model.md.md",
     "01 - Networking/IP-Address-Subnetting.md.md",
     "01 - Networking/IMG_20260327_180747.jpg",
     "04 - Tools & Cheatsheet/Cheatsheet-Networking-Dasar.md.md",
-    "README.md",
     "Untitled.md",
     "00 - Jurnal Harian/Hari-01.md.md"
   ]
