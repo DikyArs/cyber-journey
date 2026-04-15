@@ -8,7 +8,9 @@ Dokumentasi perjalanan belajar saya di bidang Cybersecurity & Networking.
 - [x] Hari 3 -- TCP/IP Model
 - [x] Hari 4 -- IP Addres & Subnetting
 - [x] Hari 5 -- DNS & DHCP
-- [x] Hari 6 — Review Minggu 1 & cheatsheet
+- [x] Hari 6 -- Review Minggu 1 & cheatsheet
+- [x] Hari 7 -- Rest
+- [x] Hari 8 -- Nmap & network scanning
 
 ## Tools yang Sudah Dipelajari
 
@@ -22,9 +24,9 @@ Dokumentasi perjalanan belajar saya di bidang Cybersecurity & Networking.
 | `ss`         | Lihat port & koneksi aktif           | `ss -tulpn`                    |
 | `nslookup`   | Query DNS sederhana                  | `nslookup google.com`          |
 | `dig`        | Query DNS detail & record type       | `dig google.com MX`            |
-| `nmap`       | Scan device di jaringan              | `sudo nmap -sn 192.168.1.0/24` |
 | `curl`       | HTTP request dari terminal           | `curl ifconfig.me`             |
 | `cat`        | Baca isi file konfigurasi            | `cat /etc/resolv.conf`         |
+| nmap         | Scan jaringan & port                 | sudo nmap -A localhost         |
 
 ## Topik yang Sudah Dipelajari
 
@@ -36,3 +38,4 @@ Dokumentasi perjalanan belajar saya di bidang Cybersecurity & Networking.
 - Subnet mask & CIDR notation
 - DNS — cara kerja, record types (A, AAAA, MX, CNAME, NS)
 - DHCP — proses DORA
+- Nmap - Scan Jaringan lokal & router

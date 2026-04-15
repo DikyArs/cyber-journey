@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Jurnal Harian/Hari-07(rest).md.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hari-07(rest).md"
+              "title": "README"
             }
           }
         ]
@@ -180,11 +180,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "81e698a80068deee",
+  "active": "4472479cb88f415a",
   "lastOpenFiles": [
+    "00 - Jurnal Harian/Hari-08.md.md",
     "00 - Jurnal Harian/Review-Minggu-1.md.md",
-    "00 - Jurnal Harian/Hari-07(rest).md.md",
     "00 - Jurnal Harian/Hari-06.md.md",
+    "00 - Jurnal Harian/Hari-07(rest).md.md",
+    "04 - Tools & Cheatsheet/Nmap.md.md",
     "README.md",
     "01 - Networking/DNS-DHCP.md.md",
     "00 - Jurnal Harian/Hari-03.md.md",
