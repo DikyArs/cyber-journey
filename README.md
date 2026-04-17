@@ -11,22 +11,24 @@ Dokumentasi perjalanan belajar saya di bidang Cybersecurity & Networking.
 - [x] Hari 6 -- Review Minggu 1 & cheatsheet
 - [x] Hari 7 -- Rest
 - [x] Hari 8 -- Nmap & network scanning
+- [x] Hari 9 — tcpdump & packet capture
 
 ## Tools yang Sudah Dipelajari
 
-| Tools        | Kegunaan                             | Contoh command                 |
-| ------------ | ------------------------------------ | ------------------------------ |
-| `ip addr`    | Lihat IP & network interface         | `ip addr show`                 |
-| `ip link`    | Lihat MAC address & status interface | `ip link show`                 |
-| `ip route`   | Lihat gateway & routing table        | `ip route show`                |
-| `ping`       | Cek konektivitas ke host             | `ping -c 4 google.com`         |
-| `traceroute` | Lihat jalur packet ke tujuan         | `traceroute google.com`        |
-| `ss`         | Lihat port & koneksi aktif           | `ss -tulpn`                    |
-| `nslookup`   | Query DNS sederhana                  | `nslookup google.com`          |
-| `dig`        | Query DNS detail & record type       | `dig google.com MX`            |
-| `curl`       | HTTP request dari terminal           | `curl ifconfig.me`             |
-| `cat`        | Baca isi file konfigurasi            | `cat /etc/resolv.conf`         |
-| nmap         | Scan jaringan & port                 | sudo nmap -A localhost         |
+| Tools        | Kegunaan                             | Contoh command           |
+| ------------ | ------------------------------------ | ------------------------ |
+| `ip addr`    | Lihat IP & network interface         | `ip addr show`           |
+| `ip link`    | Lihat MAC address & status interface | `ip link show`           |
+| `ip route`   | Lihat gateway & routing table        | `ip route show`          |
+| `ping`       | Cek konektivitas ke host             | `ping -c 4 google.com`   |
+| `traceroute` | Lihat jalur packet ke tujuan         | `traceroute google.com`  |
+| `ss`         | Lihat port & koneksi aktif           | `ss -tulpn`              |
+| `nslookup`   | Query DNS sederhana                  | `nslookup google.com`    |
+| `dig`        | Query DNS detail & record type       | `dig google.com MX`      |
+| `curl`       | HTTP request dari terminal           | `curl ifconfig.me`       |
+| `cat`        | Baca isi file konfigurasi            | `cat /etc/resolv.conf`   |
+| nmap         | Scan jaringan & port                 | sudo nmap -A localhost   |
+| tcpdump      | Capture & analisis packet jaringan   | sudo tcpdump -i wlan0 -n |
 
 ## Topik yang Sudah Dipelajari
 
@@ -39,3 +41,4 @@ Dokumentasi perjalanan belajar saya di bidang Cybersecurity & Networking.
 - DNS — cara kerja, record types (A, AAAA, MX, CNAME, NS)
 - DHCP — proses DORA
 - Nmap - Scan Jaringan lokal & router
+- tcpdump - Menangkap lalu lintas data

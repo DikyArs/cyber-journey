@@ -1,6 +1,4 @@
 # Hari 06 — [11-04-2026]
-
-
 ## Yang dilakukan hari ini
 - Review semua materi minggu 1
 - Membuat cheatsheet networking dasar
