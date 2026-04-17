@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Jurnal Harian/Review-Minggu-1.md.md",
+                "file": "01 - Networking/TCPIP-Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Review-Minggu-1.md"
+              "title": "TCPIP-Model"
             }
           }
         ]
@@ -182,24 +182,25 @@
   },
   "active": "4472479cb88f415a",
   "lastOpenFiles": [
-    "00 - Jurnal Harian/Hari-06.md.md",
-    "00 - Jurnal Harian/Hari-09.md.md",
-    "00 - Jurnal Harian/Review-Minggu-1.md.md",
+    "01 - Networking/OSI-Model.md",
+    "01 - Networking/IP-Address-Subnetting.md",
+    "01 - Networking/DNS-DHCP.md",
+    "00 - Jurnal Harian/Review-Minggu-1.md",
+    "00 - Jurnal Harian/Hari-09.md",
+    "00 - Jurnal Harian/Hari-08.md",
+    "00 - Jurnal Harian/Hari-07(rest).md",
+    "00 - Jurnal Harian/Hari-06.md",
+    "00 - Jurnal Harian/Hari-05.md",
+    "00 - Jurnal Harian/Hari-04.md",
+    "00 - Jurnal Harian/Hari-03.md",
+    "00 - Jurnal Harian/Hari-02.md",
+    "00 - Jurnal Harian/Hari-01.md",
+    "04 - Tools & Cheatsheet/Cheatsheet-Networking-Dasar.md",
+    "04 - Tools & Cheatsheet/tcpdump.md",
+    "04 - Tools & Cheatsheet/Nmap.md",
     "README.md",
-    "00 - Jurnal Harian/Hari-05.md.md",
-    "00 - Jurnal Harian/Hari-07(rest).md.md",
-    "00 - Jurnal Harian/Hari-08.md.md",
-    "04 - Tools & Cheatsheet/Nmap.md.md",
-    "04 - Tools & Cheatsheet/tcpdump.md.md",
-    "00 - Jurnal Harian/Hari-03.md.md",
-    "04 - Tools & Cheatsheet/Cheatsheet-Networking-Dasar.md.md",
-    "01 - Networking/DNS-DHCP.md.md",
-    "00 - Jurnal Harian/Hari-02.md.md",
-    "01 - Networking/TCPIP-Model.md.md",
-    "01 - Networking/OSI-Model.md.md",
-    "01 - Networking/IP-Address-Subnetting.md.md",
+    "01 - Networking/TCPIP-Model.md",
     "01 - Networking/IMG_20260327_180747.jpg",
-    "Untitled.md",
-    "00 - Jurnal Harian/Hari-01.md.md"
+    "Untitled.md"
   ]
 }
