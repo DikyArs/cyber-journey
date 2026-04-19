@@ -13,6 +13,8 @@ Dokumentasi perjalanan belajar saya di bidang Cybersecurity & Networking.
 - [x] Hari 8 -- Nmap & network scanning
 - [x] Hari 9 -- tcpdump & packet capture
 - [x] Hari 10 -- Wireshark & packet analysis
+- [x] Hari 11 — Firewall & UFW
+
 
 ## Tools yang Sudah Dipelajari
 
@@ -28,9 +30,10 @@ Dokumentasi perjalanan belajar saya di bidang Cybersecurity & Networking.
 | `dig`        | Query DNS detail & record type       | `dig google.com MX`           |
 | `curl`       | HTTP request dari terminal           | `curl ifconfig.me`            |
 | `cat`        | Baca isi file konfigurasi            | `cat /etc/resolv.conf`        |
-| nmap         | Scan jaringan & port                 | sudo nmap -A localhost        |
-| tcpdump      | Capture & analisis packet jaringan   | sudo tcpdump -i wlan0 -n      |
-| wireshark    | Analisis packet secara visual        | Filter : 'dns', 'http', 'tcp' |
+| `nmap`       | Scan jaringan & port                 | sudo nmap -A localhost        |
+| `tcpdump`    | Capture & analisis packet jaringan   | sudo tcpdump -i wlan0 -n      |
+| `wireshark`  | Analisis packet secara visual        | Filter : 'dns', 'http', 'tcp' |
+| `ufw`        | Manage firewall rules                | sudo ufw allow 22             |
 
 ## Topik yang Sudah Dipelajari
 
@@ -45,3 +48,4 @@ Dokumentasi perjalanan belajar saya di bidang Cybersecurity & Networking.
 - Nmap -- Scan Jaringan lokal & router
 - tcpdump -- Menangkap lalu lintas data
 - Wireshark -- Menangkap lalu lintas data(packet) berbasis GUI
+- Firewall -- UFW dan Block & allow ssh
