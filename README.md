@@ -14,6 +14,7 @@ Dokumentasi perjalanan belajar saya di bidang Cybersecurity & Networking.
 - [x] Hari 9 -- tcpdump & packet capture
 - [x] Hari 10 -- Wireshark & packet analysis
 - [x] Hari 11 — Firewall & UFW
+- [x] Hari 12 — TryHackMe Pre-Security path
 
 
 ## Tools yang Sudah Dipelajari
@@ -49,3 +50,13 @@ Dokumentasi perjalanan belajar saya di bidang Cybersecurity & Networking.
 - tcpdump -- Menangkap lalu lintas data
 - Wireshark -- Menangkap lalu lintas data(packet) berbasis GUI
 - Firewall -- UFW dan Block & allow ssh
+
+## TryHackMe Progress
+
+**Path:** Pre-Security  
+**Status:** 🔄 In Progress
+
+| Room | Status |
+|------|--------|
+| Intro to Offensive Security | ✅ |
+| Intro to Defensive Security | ✅ |
