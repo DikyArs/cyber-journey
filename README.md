@@ -56,7 +56,9 @@ Dokumentasi perjalanan belajar saya di bidang Cybersecurity & Networking.
 **Path:** Pre-Security  
 **Status:** 🔄 In Progress
 
-| Room | Status |
-|------|--------|
-| Intro to Offensive Security | ✅ |
-| Intro to Defensive Security | ✅ |
+| Room                        | Status |
+| --------------------------- | ------ |
+| Intro to Offensive Security | ✅      |
+| Intro to Defensive Security | ✅      |
+| What is Networking?         | ✅      |
+| Intro to LAN                | ✅      |
